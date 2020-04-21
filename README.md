@@ -161,6 +161,6 @@ impossível que se tenham dois trabalhos iguais simplesmente por ‘coincidênci
 ```
 # Organização
 
-Este projeto foi desenvolvido em Python 3. 
+Este projeto foi desenvolvido em **Python 3**. 
 
-O arquivo principal se encontra no jupyter notebook projetoFINAL.ipynb
+O arquivo principal se encontra no jupyter notebook **projetoFINAL.ipynb**
