@@ -1,8 +1,7 @@
 # Faculdade de Engenharia Mecânica (FEM) da UNICAMP
 
 ```
-2 º Semestre de 201 9 – Trabalho Final
-Turma: A Prof. Tiago Henrique Machado
+2 º Semestre de 2019 – Trabalho Final
 ```
 # Identificação de Falhas em Sistemas Rotativos
 
@@ -160,9 +159,3 @@ como o procedimento for realizado e detalhado tanto na versão escrita como na a
 de se chegar as conclusões corretas pode ser bem diversa, estatisticamente é praticamente
 impossível que se tenham dois trabalhos iguais simplesmente por ‘coincidência’.
 ```
-Por fim, peço a todos que façam um esforço para comparecerem na próxima aula (terça-feira, dia
-12/11), uma vez que separei esta aula para discutirmos o trabalho com maiores detalhes. Tentem
-também ler o conteúdo deste arquivo antes da aula de forma a levantar possíveis dúvidas que possam
-ser esclarecidas durante a discussão sobre o trabalho.
-
-
