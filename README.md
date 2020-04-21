@@ -159,7 +159,7 @@ como o procedimento for realizado e detalhado tanto na versão escrita como na a
 de se chegar as conclusões corretas pode ser bem diversa, estatisticamente é praticamente
 impossível que se tenham dois trabalhos iguais simplesmente por ‘coincidência’.
 ```
-# Organização
+# Desenvolvimento
 
 Este projeto foi desenvolvido em **Python 3**. 
 
